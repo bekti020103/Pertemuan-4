@@ -1,0 +1,19 @@
+.image{
+    width: 20%;
+    height: 10%;
+}
+body{
+    background-color: brown;
+}
+#content{
+    font-weight: bold;
+    color:blue;
+    font-family: monospace;
+}
+.biografi{
+    color:purple;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    color: green;
+}
